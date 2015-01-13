@@ -1,0 +1,10 @@
+<material>
+  <description>nur gravieren und markieren</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>Glas</name>
+  <materialThicknesses>
+    <float>0.0</float>
+  </materialThicknesses>
+</material>

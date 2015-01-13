@@ -1,0 +1,24 @@
+function raute(x, y, width, height)
+{
+	var xm = x + width/2;
+	var ym = y + height/2;
+	move(x, ym);
+	line(xm, y);
+	line(x+width, ym);
+	line(xm, y+height);
+	line(x, ym);
+}
+var y = 0;
+for (var f = 10; f <= 100; f += 10)
+{
+	set("power", f);
+	var x = 0;
+	for (var speed = 20; speed <= 100; speed += 5)
+	{
+		set("speed", speed);
+		raute(x, y, 10, 10);
+		x += 15;
+	}
+	y += 15;
+}
+

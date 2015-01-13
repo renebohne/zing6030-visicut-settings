@@ -1,0 +1,11 @@
+<material>
+  <description>Formel1 Autos...</description>
+  <engraveColor>#ffffcc</engraveColor>
+  <cutColor>#ffffff</cutColor>
+  <color>#000000</color>
+  <name>Elring Abil N Pappe fuer Oelwannen</name>
+  <materialThicknesses>
+    <float>0.5</float>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>

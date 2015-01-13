@@ -1,0 +1,10 @@
+<material>
+  <description>Folie</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>PA6 - Polyamid6</name>
+  <materialThicknesses>
+    <float>0.08</float>
+  </materialThicknesses>
+</material>

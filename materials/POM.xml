@@ -1,0 +1,11 @@
+<material>
+  <description>POM Folie von technoplast</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>POM</name>
+  <materialThicknesses>
+    <float>1.0</float>
+    <float>3.0</float>
+  </materialThicknesses>
+</material>

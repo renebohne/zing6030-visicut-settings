@@ -1,0 +1,20 @@
+<visicutPreferences>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <windowBounds>
+    <x>160</x>
+    <y>112</y>
+    <width>1456</width>
+    <height>802</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/Applications/VisiCut.app/Contents/Resources/Java/examples/Basic/rectangle-20mm-green.svg</string>
+    <string>/Applications/VisiCut.app/Contents/Resources/Java/examples/fablab-schluesselanhaenger.plf</string>
+    <string>/Applications/VisiCut.app/Contents/Resources/Java/examples/Basic/circle-20mm-red.svg</string>
+  </recentFiles>
+  <lastMaterial>Acrylic</lastMaterial>
+  <lastLaserDevice>Epilog ZING</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+</visicutPreferences>

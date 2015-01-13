@@ -1,0 +1,9 @@
+<material>
+  <engraveColor>#502800</engraveColor>
+  <cutColor>#b30000</cutColor>
+  <color>#dfc7a1</color>
+  <name>Kraftplex ST</name>
+  <materialThicknesses>
+    <float>3.0</float>
+  </materialThicknesses>
+</material>

@@ -1,0 +1,11 @@
+<material>
+  <description>Glasfaser</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>Plain Optical Fibre (Glasfaser)</name>
+  <materialThicknesses>
+    <float>0.5</float>
+    <float>0.75</float>
+  </materialThicknesses>
+</material>
