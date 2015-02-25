@@ -12,7 +12,7 @@ Please:
     <bedWidth>600.0</bedWidth>
     <bedHeight>300.0</bedHeight>
   </laserCutter>
-  <cameraURL>http://10.37.129.2:8080/image</cameraURL>
+  <cameraURL>http://137.226.72.45:8080/image</cameraURL>
   <thumbnailPath>Epilog_32_ZING.png</thumbnailPath>
   <description>Epilog Zing 6030 in room 2214</description>
   <name>Epilog ZING</name>
