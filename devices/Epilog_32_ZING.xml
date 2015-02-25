@@ -6,7 +6,7 @@ Please:
 -And press &apos;start&apos; on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.EpilogZing">
-    <hostname>137.226.56.228</hostname>
+    <hostname>137.226.72.26</hostname>
     <port>515</port>
     <autofocus>false</autofocus>
     <bedWidth>600.0</bedWidth>
