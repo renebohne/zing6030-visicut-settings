@@ -1,11 +1,15 @@
 <visicutPreferences>
   <disableSandbox>false</disableSandbox>
-  <useFilenamesForJobs>false</useFilenamesForJobs>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
+  <labName>FabLab RWTH Aachen</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
   <windowBounds>
-    <x>160</x>
-    <y>112</y>
-    <width>1456</width>
-    <height>802</height>
+    <x>224</x>
+    <y>114</y>
+    <width>1153</width>
+    <height>812</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
@@ -13,8 +17,10 @@
     <string>/Applications/VisiCut.app/Contents/Resources/Java/examples/fablab-schluesselanhaenger.plf</string>
     <string>/Applications/VisiCut.app/Contents/Resources/Java/examples/Basic/circle-20mm-red.svg</string>
   </recentFiles>
-  <lastMaterial>Acrylic</lastMaterial>
+  <lastMaterial>Baumwolle</lastMaterial>
   <lastLaserDevice>Epilog ZING</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
+  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
 </visicutPreferences>
